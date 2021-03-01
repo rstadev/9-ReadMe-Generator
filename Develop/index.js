@@ -38,9 +38,11 @@ function writeToFile(fileName, data) {
 
 // TODO: Create a function to initialize app
 function init() {
-  const responses = inquirer.prompt(questions);
-
-  console.log(responses)
+  inquirer.prompt(questions).then((answers) => {
+    console.log(answers)
+  });
+  // console.log(responses)
+  // console.log("Responses: " + answers)
 }
 
 // Function call to initialize app
