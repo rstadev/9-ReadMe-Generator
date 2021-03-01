@@ -33,16 +33,20 @@ const questions = [
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-
+  fs.writeFile(fileName,  data, (err) => 
+  err ? console.error(err) : console.log("Success!")
+  )
 }
 
 // TODO: Create a function to initialize app
 function init() {
   inquirer.prompt(questions).then((answers) => {
     console.log(answers)
+
+    let userAnswers = answers
+    writeToFile("readmetest.json", JSON.stringify(userAnswers));
   });
-  // console.log(responses)
-  // console.log("Responses: " + answers)
+
 }
 
 // Function call to initialize app
