@@ -6,11 +6,9 @@
     
 
 
-  <!-- Titled description for grading clarity. Will remove after grading -->
   ## Description
   This was a project assigned during the Ga Tech Full Stack Flex Development program. The aim of this project was to utilize node to create a script capable of creating a professional ReadMe quickly and easily, as creating professionally formatted Read Me's can be both consuming and difficult. This app takes in user input and provides a ready to use tempelate that a user can add onto or utilize directly in their project.
   <br>
-
   
   
   ## Table of Contents
@@ -34,6 +32,8 @@
   To use this program, type in node index.js, and the script should launch. Then type in your responses to the generated prompts, and a markdown file  will be generated in the develop folder entitled "GeneratedReadMe". This page should have all of the information you provided previously in a professional format. From here you can either add onto this tempelate or use it directly in your project.
   <br>
 
+  Demo:
+
   ## License
   Link at: https://opensource.org/licenses/MIT
   <br>
@@ -51,7 +51,7 @@
 
   ## Contributing
 
-  Please email me, or if you are in my class simply dm me on slack.
+  Please email me to contribute.
   <br>
 
   ## Tests
