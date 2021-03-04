@@ -48,8 +48,12 @@ function generateMarkdown(data) {
   ## Tests
   
   ## Contact Me & Questions
-  ${data.user}<br>
-  ${data.email}
+  <br>
+  Message me on Github at https://github.com/${data.user}
+  <br>
+  or email me at
+  <br>
+  ${data.email} 
 
 `;
 }

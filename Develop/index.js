@@ -35,11 +35,6 @@ const questions = [
     message:"Enter installation instructions.",
   },
   {
-    type:"input",
-    name:"contributing",
-    message:"Include information for anyone looking to contribute.",
-  },
-  {
     type: "input",
     name: "user",
     message: "What is your github username?"
@@ -49,7 +44,12 @@ const questions = [
     name:"email",
     message:"Enter in your email address for a Contact Me section.",
   },
-//   {
+  {
+    type:"input",
+    name:"contributing",
+    message:"Include information for anyone looking to contribute.",
+  },
+  //   {
 //     type:"",
 //     name:"",
 //     message:"",

@@ -5,7 +5,7 @@
 
   <!-- Titled description for grading clarity. Will remove after grading -->
   ## Description
-  placeholder lorem ipsum
+  Use this program to generate read mes.
   
   
   
@@ -19,19 +19,23 @@
   7. [Questions](#questions)
   
   ## Installation
-  Download zip file
+  Install by downloading zip file
 
   ## Usage
-  placeholder lorem ipusm
+  Use this how you'd like thanks
 
   ## License
   
   ## Contributing
-  klsdfklsdfklj
+  See Contact Me
 
   ## Tests
   
   ## Contact Me & Questions
-  lk;jsdfljkdsflkj<br>
-  nukasine
+  <br>
+  Message me on Github at https://github.com/rstadev
+  <br>
+  or email me at
+  <br>
+  placeholder@place.net 
 
