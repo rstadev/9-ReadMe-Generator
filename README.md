@@ -32,7 +32,9 @@
   To use this program, type in node index.js, and the script should launch. Then type in your responses to the generated prompts, and a markdown file  will be generated in the develop folder entitled "GeneratedReadMe". This page should have all of the information you provided previously in a professional format. From here you can either add onto this tempelate or use it directly in your project.
   <br>
 
-  Demo:
+  ![ReadMeGen Picture](https://raw.githubusercontent.com/rstadev/9-ReadMe-Generator/main/Develop/assets/ReadMeGeneratorDemopic.png)
+
+  A demo video can be downloaded and watched here: https://github.com/rstadev/9-ReadMe-Generator/blob/main/Develop/assets/demovideoReadMeGen.mp4
 
   ## License
   Link at: https://opensource.org/licenses/MIT
