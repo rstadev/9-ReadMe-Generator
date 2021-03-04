@@ -1,13 +1,16 @@
 
-  # Read Me Generator
+  # ReadMeGenerator
 
+  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+
+    
 
 
   <!-- Titled description for grading clarity. Will remove after grading -->
   ## Description
+  This project was meant to do several things
   <br>
-  This project was designed has an easy and convenient way to create a read me for your project.
-  
+
   
   
   ## Table of Contents
@@ -23,30 +26,30 @@
 
   ## Installation
   
-  Install by downloading the zip file on github.
   <br>
+
 
 
   ## Usage
+  
   <br>
-  use this wisely
 
   ## License
   
   ## Contributing
+  
   <br>
-  See contact me.
 
   ## Tests
+  
   <br>
-  N/A
 
 
   ## Contact Me & Questions
   <br>
-  Message me on Github at https://github.com/rstadev
+  Message me on Github at https://github.com/
   <br>
   or email me at
   <br>
-  placeholder@gmail.com 
+   
 

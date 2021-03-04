@@ -21,7 +21,8 @@ const questions = [
   choices: [
     "MIT",
     "Mozilla Public License 2.0",
-    "Creative Commons"
+    "Creative Commons",
+    "None"
   ]
   },
   {
