@@ -314,7 +314,6 @@ function generateMarkdown(data) {
 
 
   ## Contact Me & Questions
-  <br>
   Message me on Github at https://github.com/${data.user}
   <br>
   or email me at

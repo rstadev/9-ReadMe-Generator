@@ -31,7 +31,7 @@
 
 
   ## Usage
-  To use this program, type in node index.js, and the script should launch. Then type in your responses to the generated prompts, and a markdown file  will be generated in the develop folder entitled GeneratedReadMe.md. This page should have all of the information you provided previously in a professional format. From here you can either add onto this tempelate or use it directly in your project.
+  To use this program, type in node index.js, and the script should launch. Then type in your responses to the generated prompts, and a markdown file  will be generated in the develop folder entitled "GeneratedReadMe". This page should have all of the information you provided previously in a professional format. From here you can either add onto this tempelate or use it directly in your project.
   <br>
 
   ## License
@@ -60,7 +60,6 @@
 
 
   ## Contact Me & Questions
-  <br>
   Message me on Github at https://github.com/rstadev
   <br>
   or email me at

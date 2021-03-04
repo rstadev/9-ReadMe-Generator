@@ -51,7 +51,7 @@
 
   ## Contributing
 
-  test
+  tes
   <br>
 
   ## Tests
@@ -60,7 +60,6 @@
 
 
   ## Contact Me & Questions
-  <br>
   Message me on Github at https://github.com/test
   <br>
   or email me at
