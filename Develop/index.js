@@ -75,7 +75,7 @@ function init() {
     console.log(answers)
 
     // let userAnswers = answers
-    writeToFile("readmetest.md", generateMarkdown(answers));
+    writeToFile("GeneratedReadMe.md", generateMarkdown(answers));
   });
 
 }
