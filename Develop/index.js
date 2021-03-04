@@ -11,13 +11,13 @@ const questions = [
   },
   {
     type: "input",
-    name: "user",
-    message: "What is your github username?"
+    name: "description",
+    message: "Enter a description for your project.",
   },
   {
     type: "input",
-    name: "description",
-    message: "Enter a description for your project.",
+    name: "user",
+    message: "What is your github username?"
   },
   {
     type:"input",
@@ -29,9 +29,9 @@ const questions = [
     name:"license",
     message:"Choose a license.",
     choices: [
-      'MIT',
-      'Mozilla Public License 2.0',
-      'Creative Commons'
+      "MIT",
+      "Mozilla Public License 2.0",
+      "Creative Commons"
     ]
   },
 //   {
