@@ -40,6 +40,7 @@ function renderLicenseLink(license) {
 }
 
 // TODO: Create a function that returns the license section of README
+// TODO: Clean this up. Also I want the year to be dynamic.
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
   if (license === "MIT") {
@@ -299,7 +300,7 @@ function generateMarkdown(data) {
   Link at: `+ renderLicenseLink(`${data.license}`) + `
   <br>
   License information: `+ renderLicenseSection(`${data.license}`) + `
-  
+
   <br>
 
   ## Contributing
