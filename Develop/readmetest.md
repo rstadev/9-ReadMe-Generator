@@ -1,11 +1,11 @@
 
-  # Test again
+  # Read Me Generator
 
 
 
   <!-- Titled description for grading clarity. Will remove after grading -->
-  ## Descriptions
-  I would decribe this in many waysl
+  ## Description
+  placeholder lorem ipsum
   
   
   
@@ -18,15 +18,20 @@
   6. [Tests](#tests)
   7. [Questions](#questions)
   
-  ### Installation
+  ## Installation
+  Download zip file
+
+  ## Usage
+  placeholder lorem ipusm
+
+  ## License
   
-  ### Usage
+  ## Contributing
+  klsdfklsdfklj
+
+  ## Tests
   
-  ### License
-  
-  ### Contributing
-  
-  ### Tests
-  
-  ### Questions
-  
+  ## Contact Me & Questions
+  lk;jsdfljkdsflkj<br>
+  nukasine
+

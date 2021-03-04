@@ -35,17 +35,22 @@ function generateMarkdown(data) {
   7. [Questions](#questions)
   
   ### Installation
-  
+  ${data.installation}
+
   ### Usage
-  
+  ${data.usage}
+
   ### License
   
   ### Contributing
-  
+  ${data.contributing}
+
   ### Tests
   
-  ### Questions
-  
+  ### Contact Me & Questions
+  ${data.user}<br>
+  ${data.email}
+
 `;
 }
 

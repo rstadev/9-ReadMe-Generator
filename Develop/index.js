@@ -15,24 +15,39 @@ const questions = [
     message: "Enter a description for your project.",
   },
   {
-    type: "input",
-    name: "user",
-    message: "What is your github username?"
+  type:"list",
+  name:"license",
+  message:"Choose a license.",
+  choices: [
+    "MIT",
+    "Mozilla Public License 2.0",
+    "Creative Commons"
+  ]
   },
   {
     type:"input",
     name:"usage",
     message:"Enter in usage informaton.",
   },
-    {
-    type:"list",
-    name:"license",
-    message:"Choose a license.",
-    choices: [
-      "MIT",
-      "Mozilla Public License 2.0",
-      "Creative Commons"
-    ]
+  {
+    type:"input",
+    name:"installation",
+    message:"Enter installation instructions.",
+  },
+  {
+    type:"input",
+    name:"contributing",
+    message:"Include information for anyone looking to contribute.",
+  },
+  {
+    type: "input",
+    name: "user",
+    message: "What is your github username?"
+  },
+  {
+    type:"input",
+    name:"email",
+    message:"Enter in your email address for a Contact Me section.",
   },
 //   {
 //     type:"",
