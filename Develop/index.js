@@ -5,19 +5,19 @@ const generateMarkdown = require("./utils/generateMarkdown");
 // TODO: Create an array of questions for user input
 const questions = [
   {
-    type: "input",
-    name: "user",
-    message: "What is your github username?"
-  },
-  {
     type:"input",
     name:"title",
     message:"What is the title of your project?",
   },
   {
     type: "input",
+    name: "user",
+    message: "What is your github username?"
+  },
+  {
+    type: "input",
     name: "description",
-    message: "How would you describe this project?",
+    message: "Enter a description for your project.",
   },
   {
     type:"input",
@@ -53,8 +53,8 @@ function init() {
   inquirer.prompt(questions).then(answers => {
     console.log(answers)
 
-    let userAnswers = answers
-    writeToFile("readmetest.md", generateMarkdown(userAnswers));
+    // let userAnswers = answers
+    writeToFile("readmetest.md", generateMarkdown(answers));
   });
 
 }
