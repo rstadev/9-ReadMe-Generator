@@ -33,9 +33,9 @@
   
   ## Contact Me & Questions
   <br>
-  Message me on Github at https://github.com/rstadev
+  Follow me on Github at https://github.com/rstadev
   <br>
-  or email me at
+  Direct any questions to my email:
   <br>
   placeholder@place.net 
 
