@@ -296,7 +296,10 @@ function generateMarkdown(data) {
   <br>
 
   ## License
-  
+  Link at: `+ renderLicenseLink(`${data.license}`) + `
+  <br>
+  License information: `+ renderLicenseSection(`${data.license}`) + `
+  <br>
   ## Contributing
   ${data.contributing}
   <br>
