@@ -49,6 +49,11 @@ const questions = [
     name:"contributing",
     message:"Include information for anyone looking to contribute.",
   },
+  {
+    type:"input",
+    name:"tests",
+    message:"Include information for any testing you have included with your project.",
+  }
   //   {
 //     type:"",
 //     name:"",

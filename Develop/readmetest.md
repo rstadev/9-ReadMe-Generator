@@ -5,7 +5,8 @@
 
   <!-- Titled description for grading clarity. Will remove after grading -->
   ## Description
-  Use this program to generate read mes.
+  <br>
+  This project was designed has an easy and convenient way to create a read me for your project.
   
   
   
@@ -18,24 +19,34 @@
   6. [Tests](#tests)
   7. [Questions](#questions)
   
+
+
   ## Installation
-  Install by downloading zip file
+  
+  Install by downloading the zip file on github.
+  <br>
+
 
   ## Usage
-  Use this how you'd like thanks
+  <br>
+  use this wisely
 
   ## License
   
   ## Contributing
-  See Contact Me
+  <br>
+  See contact me.
 
   ## Tests
-  
+  <br>
+  N/A
+
+
   ## Contact Me & Questions
   <br>
-  Follow me on Github at https://github.com/rstadev
+  Message me on Github at https://github.com/rstadev
   <br>
-  Direct any questions to my email:
+  or email me at
   <br>
-  placeholder@place.net 
+  placeholder@gmail.com 
 

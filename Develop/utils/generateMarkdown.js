@@ -21,6 +21,7 @@ function generateMarkdown(data) {
 
   <!-- Titled description for grading clarity. Will remove after grading -->
   ## Description
+  <br>
   ${data.description}
   
   
@@ -34,19 +35,29 @@ function generateMarkdown(data) {
   6. [Tests](#tests)
   7. [Questions](#questions)
   
+
+
   ## Installation
+  <br>
   ${data.installation}
 
+
+
   ## Usage
+  <br>
   ${data.usage}
 
   ## License
   
   ## Contributing
+  <br>
   ${data.contributing}
 
   ## Tests
-  
+  <br>
+  ${data.tests}
+
+
   ## Contact Me & Questions
   <br>
   Message me on Github at https://github.com/${data.user}
