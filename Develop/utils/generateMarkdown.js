@@ -282,7 +282,7 @@ function generateMarkdown(data) {
   4. [License](#license)
   5. [Contributing](#contributing)
   6. [Tests](#tests)
-  7. [Questions](#contactme)
+  7. [ContactMe](#contactme)
   
 
 
