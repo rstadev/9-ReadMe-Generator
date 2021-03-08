@@ -282,7 +282,7 @@ function generateMarkdown(data) {
   4. [License](#license)
   5. [Contributing](#contributing)
   6. [Tests](#tests)
-  7. [Questions](#questions)
+  7. [Questions](#contactme)
   
 
 
@@ -313,7 +313,7 @@ function generateMarkdown(data) {
   <br>
 
 
-  ## Contact Me & Questions
+  ## ContactMe
   Message me on Github at https://github.com/${data.user}
   <br>
   or email me at
