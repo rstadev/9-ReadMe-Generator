@@ -1,5 +1,5 @@
 
-  # E-Commerce BackEnd System
+  # Weather Forcast
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -8,7 +8,7 @@
 
   <!-- Titled description for grading clarity. Will remove after grading -->
   ## Description
-  This project was assigned during the Georgia Tech Full Stack Flex Development Program. The aim of this project was to utilize sequelize to create a javascript based backend system capable of housing data needed for a shopping website or app. This system would be entirely independent from a front end, which gives it versatility in developing its front end component. As of now everything assigned works, and a developer can put, post, get, or delete data using postman or insomnia.
+  This project was assigned during the Georgia Tech Full Stack Flex Development Program. The aim of this project was to create from scratch a working Weather Forcast Dashboard Application. Meaning when a user enters in a desired city, they would be met with the current weather for said city, the five day forcast of that city, and their search entered in to a past searches field. The app should be complete,and functions correctly according to the assigned requirements.
   <br>
 
   
@@ -25,13 +25,13 @@
 
 
   ## Installation
-  To install this app, simply download its zip file from the github link located here: . You will also need mysql workbench and mysql installed, along with an app like insomnia core or postman.
+  No installation necessary.
   <br>
 
 
 
   ## Usage
-  To use this app, download this file on github. Create a .env file and fill it with your user information. Run the 'create database' command located in the schema file in the db folder. Then run npmm start, npm seed, then npm start again. This syncs the table structure, creates the data, then starts the server. From here you should be able to use postman and insomnia to handle data manipulation. 
+  To use this project, simply follow the deployed link here: 
   <br>
 
   ## License
@@ -51,16 +51,16 @@
 
   ## Contributing
 
-  To contribute, contact me using github.
+  
   <br>
 
   ## Tests
-  N/A
+  
   <br>
 
 
   ## ContactMe
-  Message me on Github at https://github.com/rstadev
+  Message me on Github at https://github.com/rstade
   <br>
   or email me at
   <br>
